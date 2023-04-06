@@ -13,19 +13,19 @@ body{
     padding: 20px;
 }
 .s1{
-    background: url('images/2.jpg');
+    background: url('../images/2.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 .s2{
-    background: url('images/3.jpg');
+    background: url('../images/3.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 .s3{
-    background: url('images/5.jpg');
+    background: url('../images/5.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
