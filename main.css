@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Rubik', sans-serif;
+}
+.chair{
+    max-width: 500px;
+}
+.section{
+    padding: 20px;
+}
+.s1{
+    background: url('images/2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.s2{
+    background: url('images/3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.s3{
+    background: url('images/5.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.head{
+    font-size: 60px;
+}
+.desc{
+    max-width: 800px;
+    font-size: 20px;
+    line-height: 1.4;
+}
+.sh1, .sh3, .dsc1, .dsc3{
+    color: #ffffff;
+}
